@@ -9,7 +9,7 @@ This project involves conducting a comprehensive HR data analysis for Palmoria G
 -	Check compliance with the newly implemented minimum wage regulation
 -	Calculate employee bonuses based on performance ratings
   
-##📎Data source
+## 📎Data source
 The primary Data source used here is Palmoria Group HR data.csv and Palmoria Group Bonus rules.xlsx and this are real life data source received as a project to worked on from Incubator Hub. The HR Dataset contains Name, Gender, Department, Salary, Location and Rating while Bonus rules contain Department, Very poor, Poor, Average, Good and Very Good.
 
 ## 🛠 Tools used
@@ -57,7 +57,7 @@ The primary Data source used here is Palmoria Group HR data.csv and Palmoria Gro
 ## ✅ Outcome
 This analysis equipped Palmoria Group’s management with a clear view of internal disparities and data-driven recommendations to improve gender equality and pay fairness- key steps toward rebuilding its public image and supporting future business expansion
 
-Contact
+### Contact
 If you would like to connect or ask questions
-•	LinkedIn [Taiwo Funke]
-•	Email [funkybay612@gmail.com
+- LinkedIn [Taiwo Funke]
+-	Email [funkybay612@gmail.com
