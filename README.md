@@ -1,6 +1,6 @@
 #  📊 Project Topic: Palmoria-Group-HR-Analysis
  ## 🗂 Project Overview
-This project involves conducting a comprehensive HR data analysis for Palmoria Group, a manufacturing company in Nigeria, to uncover and address gender inequality and salary structure issues across its 3 regions and departments. It’s focuses on generating insight around Salary pay gap, company’s salary structure and gender inequality, includes bonus calculation using a second dataset on Power Bi to build an interactive visuals dashboard  with slicers and filters on the focuses points Palmoria management team would need to address for business decision making.
+This project involves conducting a comprehensive HR data analysis for Palmoria Group, a manufacturing company in Nigeria, to uncover and address gender inequality and salary structure issues across its 3 regions and departments. It focuses on generating insight around Salary pay gap, company’s salary structure and gender inequality, includes bonus calculation using a second dataset on Power Bi to build an interactive visuals dashboard  with slicers and filters on the focuses points Palmoria management team would need to address for business decision making.
 
 ## 🎯Objectives
 -	Identify gender disparities across regions and departments
