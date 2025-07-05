@@ -40,7 +40,6 @@ In the initial phase of the Data Transformation and Preparation, I perform the f
   -	Displayed salary distribution in $10,000 Band
   -	Identified employee below minimum salary threshold by region
   -	Visualized filter by region
-
      
 ### 5.	Bonus calculation and salary recalculation
   -	Calculated total amount of Bonus paid using table chart
@@ -51,9 +50,8 @@ In the initial phase of the Data Transformation and Preparation, I perform the f
 -	Gender distribution filter by region and department
 -	Gender pay gap comparison chart
 -	Bar, column and table charts showing bonus totals and compliance metrics
+![Palmoriadashboard1](https://github.com/user-attachments/assets/1cd6b849-ef68-448d-9f58-2fc841fbf526) ![Palmoriadashboard2](https://github.com/user-attachments/assets/3987858b-7c12-4096-9d51-421b655a2e6c)
 
-Click here to view Dashboard
-  
 ## 🧠 Recommendations
 -	Balance recruitment and promotion efforts across genders
 -	Review and correct unjustified salary differences
@@ -63,10 +61,10 @@ Click here to view Dashboard
 ## ✅ Outcome
 This analysis equipped Palmoria Group’s management with a clear view of internal disparities and data-driven recommendations to improve gender equality and pay fairness- key steps toward rebuilding its public image and supporting future business expansion
 
-## What I learned
+## 📝 What I learned
 -	How to designed user-friendly dashboard that answer real operational questions
 
-### Contact
+## 📞 Contact
 I’m open to internship role, full-time role, freelance projects, or collaboration and If you would like to connect or ask questions
--	LinkedIn [https://www.linkedin.com/in/taiwo-funke-04a35a164]
--	Email [funkybay612@gmail.com]
+-	🌐 LinkedIn [https://www.linkedin.com/in/taiwo-funke-04a35a164]
+-	📧 Email [funkybay612@gmail.com]
