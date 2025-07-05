@@ -25,26 +25,27 @@ In the initial phase of the Data Transformation and Preparation, I perform the f
 
 ## 🔍 Key Insights & Analysis
 ### 1.	Gender Distribution by Region
-    -	Found a significant male dominance in certain departments and regions
-    -	Visualized gender counts and proportions per region and department
-    
+   - Found a significant male dominance in certain departments and regions
+   - Visualized gender counts and proportions per region and department
+      
 ### 2.	Rating Distribution by Gender
-    -	Analyzed performance rating by genders
-    -	Result were visualized with stacked column charts and filters by gender
+  -	Analyzed performance rating by genders
+  -	Result were visualized with stacked column charts and filters by gender
     
 ### 3.	Salary Structure & Gender Pay Gap
-    -	Discovering noticeable pay gaps favoring males in several departments
-    -	Identified key regions and departments needing immediate attention
+  -	Discovering noticeable pay gaps favoring males in several departments
+  -	Identified key regions and departments needing immediate attention
     
 ### 4.	Minimum Wage Compliance
-    -	Displayed salary distribution in $10,000 Band
-    -	Identified employee below minimum salary threshold by region
-    - Visualized filter by region
-    
+  -	Displayed salary distribution in $10,000 Band
+  -	Identified employee below minimum salary threshold by region
+  -	Visualized filter by region
+
+     
 ### 5.	Bonus calculation and salary recalculation
-    -	Calculated total amount of Bonus paid using table chart
-    -	Calculated total amount to be paid to individuals (salary + bonus)
-    -	Summarized total amount to be paid out per region
+  -	Calculated total amount of Bonus paid using table chart
+  -	Calculated total amount to be paid to individuals (salary + bonus)
+  -	Summarized total amount to be paid out per region
     
 ## 📊 Dashboard Features
 -	Gender distribution filter by region and department
